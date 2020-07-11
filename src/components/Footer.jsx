@@ -53,8 +53,8 @@ const Footer = () => (
         <Link to="/">
             <Logo />
         </Link>
-        <FooterAuthor href="https://www.marguerite.io/?utm_source=prist&utm_medium=footer&utm_campaign=prist_starter">
-            © 2020 — Designed & developed by Andrew Brauteseth
+        <FooterAuthor href="https://www.4cast.co.za/">
+            © 2020 — Designed & developed by Andrew @ 4CAST
             <FooterSpooch className="FooterSpooch" src={spooch} />
         </FooterAuthor>
     </FooterContainer>
