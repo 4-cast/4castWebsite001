@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `4CAST | Deep Learning Agency`,
-        description: `A company dedicated to big data.`,
+    title: `4CAST | Data Scientist at work.`,
+        description: `A company dedicated to big data, deep learning and mathematics.`,
     author: `Andrew`,
   },
   plugins: [
